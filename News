@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Welcome to Kai Wu's Homepage</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Kai Wu</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="publication.html" class="current">Publications and Preprint</a></div>
+<div class="menu-item"><a href="grant_award.html">Funds and Awards</a></div>
+<div class="menu-item"><a href="service.html">   Services   </a></div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V5JjG9mrYOMcBDVsyWAWHBMVtJ3RlmTlkPXp74r67qE&cl=ffffff&w=a"></script>
+</td>
+<td id="layout-content">
+<p>
+<tt> </tt>
+</p>
+<h1>News</h1>
+<ul>
+<li><p>[Sep 2021] One paper is accepted by ChineseCSCW2021.</p>
+</li>
+<li><p>[Aug 2021] One paper is accepted by IEEE Transactions on Cybernetics. Congratulations, Chaolong Ying!</p>
+</li>
+<li><p>[Jun 2021] One paper is accepted by IEEE Transactions on Cybernetics. Congratulations, Chao!</p>
+</li>
+<li><p>[Apr 2021] One paper is accepted by Applied Soft Computing. Congratulations, Chao!</p>
+</li>
+<li><p>[Apr 2021] One paper is accepted by Knowledge-based Systems. Congratulations, Fang!</p>
+</li>
+<li><p>[Mar 2021] One paper is accepted by IEEE Transactions on Evolutionary Computation</p>
+</li>
+<li><p>[Feb 2021] One paper is accepted by SCIENTIA SINICA Technologica</p>
+</li>
+<li><p>[Nov 2020] One paper is accepted by EMO2021</p>
+</li>
+<li><p>[Sep 2020] One paper is accepted by IEEE SSCI2020</p>
+</li>
+<li><p>[Sep 2020] One paper is accepted by IAI2020</p>
+</li>
+<li><p>[Sep 2020] One paper is accepted by IEEE Transactions on Cybernetics</p>
+</li>
+<li><p>[Sep 2020] I have joined in Xidian University</p>
+</li>
+<li><p>[Aug 2020] 2020-8-18, I have successfully defended my PhD dissertation and became a PhD</p>
+</li>
+<li><p>[Mar 2020] Call for Paper: <a href="http://conf.kzgc.com.cn/iai2020/submitpapers/invitedsessions" target=&ldquo;blank&rdquo;>The 2nd International Conference on Industrial Artificial Intelligence, Invited Session: Industrial Artificial Intelligence for Time Series Data in Large-scale Complex Systems</a>.</p>
+</li>
+<li><p>[Feb 2020] Call for Paper: <a href="http://www.ieeessci2020.org/symposiums/masco.html" target=&ldquo;blank&rdquo;>IEEE Symposium 2020 on Multi-agent System Coordination and Optimization</a>.</p>
+</li>
+<li><p>[Aug 2020] One paper is accepted by IEEE Transactions on Evolutionary Computation</p>
+</li>
+<li><p>[Aug 2020] One paper is accepted by Knowledge-based Systems</p>
+</li>
+<li><p>[May 2020] One paper is accepted by Knowledge-based Systems</p>
+</li>
+<li><p>[May 2020] One paper is accepted by IEEE Transactions on Fuzzy Systems</p>
+</li>
+<li><p>[Apr 2020] One paper is accepted by IEEE Transactions on Fuzzy Systems</p>
+</li>
+<li><p>[Feb 2020] One paper is accepted by IEEE Transactions on Fuzzy Systems</p>
+</li>
+<li><p>[Nov 2019] One paper is accepted by IEEE Transactions on Fuzzy Systems</p>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d56a1698848ed345e37455eb85b19de8";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>
